@@ -30,13 +30,10 @@ Flutter 3.x
 1. Clone the repository
 2. Open the project in VS Code or Android Studio
 3. Run:
-
-```bash
+   
 flutter pub get
 flutter run
 
-
----
 
 ## Home page
 ![Home](screenshots/home.png)
